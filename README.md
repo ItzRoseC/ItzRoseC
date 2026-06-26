@@ -7,5 +7,7 @@ I am a rising senior in high school on a Computer Science pathway, aiming to bec
 
 ## **Tech & Tool**
 
+## **Featured Projects**
+
 ## **Let's Connect!**
 [LinkedIn](https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BxRw%2BLL%2F%2FT32Hlu7EjMAXJg%3D%3D)
